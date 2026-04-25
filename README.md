@@ -43,4 +43,4 @@ Open `final.html` in any modern web browser to play immediately.
 
 ---
 *Created with the intention to spread beneficial Islamic knowledge* 🤲
-https://sameerayasmeen.github.io/islamicscholarquiz/
+https://islamicscholarquiz.netlify.app/
